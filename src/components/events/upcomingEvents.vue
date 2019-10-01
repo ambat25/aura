@@ -184,7 +184,8 @@ export default {
         }
     },
     created(){
-        fetch('https://cors-anywhere.herokuapp.com/https://api.meetup.com/'+MeetupAPI.urlname+'/events?key='+MeetupAPI.apiKey).then(data=>data.json()).then(res=>{
+        const url = `https://cors-anywhere.herokuapp.com/https://api.meetup.com/${MeetupAPI.urlname}/events?key=${MeetupAPI.apiKey}`;
+        fetch(url).then(data=>data.json()).then(res=>{
             if(res.length>0){
                 this.showLoader = false
                 this.showData = true

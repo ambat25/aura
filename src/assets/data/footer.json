@@ -1,7 +1,7 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Jalandhar",
+            "LinkName":"GDG Kano",
             "Link":"/"
         },
         {
@@ -14,17 +14,17 @@
         },
         {
             "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "Link":"https://www.meetup.com/GDG-Kano/"
         }
     ],
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:info@kano.gdg.ng"
         },
         {
             "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:info@kano.gdg.ng"
         },
         {
             "LinkName" : "Media Kit",

@@ -1,55 +1,46 @@
 [
     {
-        "name":"Name",
+        "name":"Ibrahim Zango",
         "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"https://twitter.com/ibro_zango",
+        "linkedin":"https://www.linkedin.com/in/ibro_zango",
+        "github":"https://github.com/ibro_zango ",
+        "profileImage":"zango.jpg",
+        "website":""
+    },
+    {
+        "name":"Shahid Sani",
+        "designation":"Android Developer",
+        "twitter":"https://twitter.com/malan_shahid ",
+        "linkedin":"https://www.linkedin.com/in/malan_shahid ",
+        "github":"https://github.com/malan_shahid ",
+        "profileImage":"shahid.jpg",
+        "website":""
+    },
+    {
+        "name":"Abdulrahman M Bashir",
+        "designation":"Software Engineer",
+        "twitter":"https://twitter.com/ambat25",
+        "linkedin":"https://www.linkedin.com/in/ambat25",
+        "github":"https://github.com/ambat25",
+        "profileImage":"ambat.jpg",
+        "website":""
+    },
+    {
+        "name":"Safiya Daba",
+        "designation":"Front End Developer",
+        "twitter":"https://twitter.com/DabaSafiyya",
+        "linkedin":"https://www.linkedin.com/in/DabaSafiyya",
+        "github":"https://github.com/DabaSafiyya",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
+        "name":"Rukayya Sayyid",
         "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"https://twitter.com/rukayyah_sayid",
+        "linkedin":"https://www.linkedin.com/in/rukayyah_sayid",
+        "github":"https://github.com/rukayyah_sayid",
         "profileImage":"",
         "website":""
     }
